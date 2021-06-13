@@ -19,6 +19,7 @@ const factorial = (n) => {
     //console.log("factorial value", f);
     //return f;
 }
+
 factorial(4);
 
 /**program tracing
