@@ -30,4 +30,7 @@ fibonacci(40)
 /**
  * fibonacci iterative more performant that recursive program because it calc
  * the number only once.
+ * 
+ * time complexity O(n)
+ * space complexity O(n)
  */

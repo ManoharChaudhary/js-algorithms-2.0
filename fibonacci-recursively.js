@@ -24,4 +24,7 @@ fibonacci(40)
  * fibonacci recurcively program take more time that  iterative becuase it
  * calc same fib number multiple times eg f(2), f(3). IF we pass n as large
  * number.
+ * 
+ * time complexity O(2**n) two to the power of n
+ * space complexity O(n)
  */

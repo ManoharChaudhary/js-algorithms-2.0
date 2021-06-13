@@ -30,4 +30,6 @@ factorial(4);
  *  f(1)        1 * f(0)    1
  *  f(0)        1           1
  *
+ * time complexity O(n)
+ * space complexity O(n)
  */
