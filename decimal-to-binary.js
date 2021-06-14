@@ -2,7 +2,6 @@
  * Math basics - decimal to binary
  */
 
-
 /**
  * Decimal to binary 
  * @param {number} n - param of base10 number
