@@ -9,6 +9,7 @@
  */
 
 const decimalToBinary = (n) => {
+    if (!n && typeof n !== 'number') { return 'Not valid input' }
     let binary = '';
     while (n > 0) {
         const rem = n % 2;
