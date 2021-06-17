@@ -50,14 +50,13 @@ const binarySearch = (arr, x, low = 0, high = arr.length) => {
     if (firstOccurance === -1) {
         return -1;
     }
-    console.log('why', firstOccurance)
     return (lastOccurance - firstOccurance) + 1;
 
 }
 
-console.log(binarySearch([5, 5, 6, 63, 66, 66, 87, 100], 0));
+console.log(binarySearch([5, 5, 6, 63, 66, 66, 87, 100], 66));
 
-//5, 5, 6, 63, 66, 66, 87, 100
+//5, 5, 6, 63, 66, 66, 87, 100 => 2
 //  0  1  2   3   4  5   6   7
 
 
