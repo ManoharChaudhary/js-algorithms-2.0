@@ -52,5 +52,4 @@ console.log(arr);
 
 /**
  * time complexity = O(nlogn)
- * space complexity O(n)
  */
