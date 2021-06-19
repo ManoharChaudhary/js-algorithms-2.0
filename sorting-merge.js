@@ -28,6 +28,7 @@ const merge = (L, R, arr) => {
         i++;
         k++;
     }
+
     while (j < Rn) {
         arr[k] = R[j];
         j++;
